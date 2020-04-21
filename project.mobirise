@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "downloadyourfirstaidkit.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "simpleamp",
       "title": "SimpleAMP",
@@ -44,7 +44,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 42,
+    "uniqCompNum": 44,
     "versionPublish": "4.12.3",
     "mcShopcart": {
       "email": "kifcare@gmail.com",
@@ -60,7 +60,8 @@
     "siteUrl": "https://kifcare.com/",
     "cookiesAlert": false,
     "gdpr": false,
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
